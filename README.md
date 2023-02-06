@@ -1,6 +1,6 @@
 # jetpack_compose
 
-Мини проект с демонстрацией моих навыков и знаний разработки интерфейса на основе JetPack Copmose. 
+Мини проект с демонстрацией моих навыков и знаний разработки интерфейса на основе JetPack Compose. 
 Приложение выводит список деталей персонажа из мультсериала "Рика и Мартин". При кликаньи на "эпизоды", выводится список всех эпизодов где персонаж появлялся.
 
 A mini project with a demonstration of my skills and knowledge of developing an interface based on JetPack Copmose.
